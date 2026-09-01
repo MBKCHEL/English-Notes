@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/dictionary.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dictionary"
+              "title": "README"
             }
           }
         ]
@@ -188,8 +188,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "475471bf45c39646",
+  "active": "2ea526102daa11c0",
   "lastOpenFiles": [
+    "LICENSE.md",
+    "README.md",
     "notes/dictionary.md"
   ]
 }
