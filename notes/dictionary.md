@@ -1,18 +1,35 @@
 # 📖 English Dictionary
 
+## ☕ Everyday life
+* **Like** - *Типа / Как бы / Нравиться*
+* **I mean** - *В смысле /  Я имею в виду / То-есть / Я хочу сказать*
+* **You know** - *Ты знаешь? / Знаешь-ли? / Понимаешь?*
+* **Basically** - *По сути / В основном / В принципе / Проще говоря*
+* **Actually** - *Вообще-то / На самом деле*
+- **Anyway** - *В любом случае / Как бы то ни было*
+- **Literally** - *Буквально / Прямо-таки*
+- **Eventually** - *В конце концов / Со временем*
+
+---
+
 ## 💻 IT & Linux
-* **Repository** - [rɪˈpɑːzətɔːri] - Репозиторий / Репка
-* **Environment** - [ɪnˈvaɪrənmənt] - Окружение / среда (Desktop Environment)
-* **Issue** - [ˈɪʃuː] - Проблема / задача в проекте
-* **Dependency** - [dɪˈpendənsi] - Зависимость (пакет, нужный для работы программы)
-* **Merge** - [mɜːrdʒ] - Слияние
-* **Branch**  - [bræntʃ] - Ветка
+* **Repository** - [rɪˈpɑːzətɔːri] - *Репозиторий / Репка*
+* **Environment** - [ɪnˈvaɪrənmənt] - *Окружение / среда (Desktop Environment)*
+* **Issue** - [ˈɪʃuː] - *Проблема / задача в проекте*
+* **Dependency** - [dɪˈpendənsi] - *Зависимость (пакет, нужный для работы программы)*
+* **Merge** - [mɜːrdʒ] - *Слияние*
+* **Branch**  - [bræntʃ] - *Ветка*
+* **Executable** - [ˈeksɪkjuːtəbl] - *Исполняемый файл / Бинарник*
+- **Compiler** - [kəmˈpaɪlər] - *Компилятор / Сборщик кода*
+- **Permission** - [pərˈmɪʃn] - *Права доступа (как в `chmod`)*
+- **Framework** - [ˈfreɪmwɜːrk] - *Фреймворк / Готовый каркас для разработки*
+* **Out of memory** - [aʊt̬ əv ˈmeməri]- *ООМ / Переполение ОЗУ*
 
 ---
 
 ## 🎮 Gaming & Everyday
-* **Patience** - [ˈpeɪʃns] - Терпение 
-* **Equipment** - [ɪˈkwɪpmənt] - Снаряжение / экипировка
-* **Decision** - [dɪˈsɪʒn] - Решение
-* **Temporary** - [ˈtemprəri] - Временный
-* **Destination** - [ˌdestɪˈneɪʃn] - Точка назначения / пункт прибытия
+* **Patience** - [ˈpeɪʃns] - *Терпение* 
+* **Equipment** - [ɪˈkwɪpmənt] - *Снаряжение / экипировка*
+* **Decision** - [dɪˈsɪʒn] - *Решение*
+* **Temporary** - [ˈtemprəri] - *Временный*
+* **Destination** - [ˌdestɪˈneɪʃn] - *Точка назначения / пункт прибытия*
