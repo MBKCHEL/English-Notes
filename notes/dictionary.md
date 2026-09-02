@@ -27,9 +27,36 @@
 
 ---
 
-## 🎮 Gaming & Everyday
+## 🎮 Gaming
 * **Patience** - [ˈpeɪʃns] - *Терпение* 
 * **Equipment** - [ɪˈkwɪpmənt] - *Снаряжение / экипировка*
 * **Decision** - [dɪˈsɪʒn] - *Решение*
 * **Temporary** - [ˈtemprəri] - *Временный*
 * **Destination** - [ˌdestɪˈneɪʃn] - *Точка назначения / пункт прибытия*
+
+ ---
+
+## 🍎 Fruits, 🥔 Vegetables & 🍓 Berries
+* **Strawberry** - [ˈstrɔːberi] - *Клубника*
+* **Blueberry** - [ˈbluːberi] - *Черника / Голубика*
+* **Raspberry** - [ˈræzberi] - *Малина (буква p не читается)*
+* **Blackberry** - [ˈblækberi] - *Ежевика*
+* **Cherry** - [ˈtʃeri] - *Вишня / Черешня*
+* **Apple** - [ˈæpl] - *Яблоко*
+* **Banana** - [bəˈnænə] - *Банан*
+* **Kiwi** - [ˈkiːwi] - *Киви*
+* **Orange** - [ˈɔːrɪndʒ] - *Апельсин*
+* **Peach** - [piːtʃ] - *Персик*
+* **Pear** - [per] - *Груша*
+* **Pineapple** - [ˈpaɪnæpl] - *Ананас*
+* **Watermelon** - [ˈwɔːtərmelən] - *Арбуз*
+* **Lemon** - [ˈlemən] - *Лимон*
+* **Lime** - [laɪm] - *Лайм*
+* **Tomato** - [təˈmeɪtoʊ] - *Помидор*
+* **Cucumber** - [ˈkjuːkʌmbər] - *Огурец*
+* **Potato** - [pəˈteɪtoʊ] - *Картошка*
+* **Carrot** - [ˈkærət] - *Морковь*
+* **Onion** - [ˈʌnjən] - *Лук*
+* **Garlic** - [ˈɡɑːrlɪk] - *Чеснок*
+* **Pepper** - [ˈpepər] - *Болгарский перец*
+* **Broccoli** - [ˈbrɑːkəli] - *Брокколи*
